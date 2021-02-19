@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "C49",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Downloads/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C49"
+	}
+}
